@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Tag(name = "ClientRequests")
+@Tag(name = "ClientRequest")
 public class ClientRequest {
     private String customerCode;
     private String customerType;
