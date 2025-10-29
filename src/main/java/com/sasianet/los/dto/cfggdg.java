@@ -8,6 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-@Tag(description = "555566")
+@Tag(description = "ABCD")
 public class cfggdg {
 }
